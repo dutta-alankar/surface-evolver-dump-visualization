@@ -15,4 +15,5 @@ To run the code one needs python 3 along with matplotlib, numpy and mayavi modul
 To install Mayavi in anaconda one can execute the following command:
 ```conda install -c anaconda mayavi```
 
-Special thanks to Nasser Alkmim for the blog http://nasseralkmim.github.io/notes/2016/08/11/drawing-3d-lines-in-python/ 
+Special thanks to Nasser Alkmim (https://github.com/nasseralkmim) for the blog
+http://nasseralkmim.github.io/notes/2016/08/11/drawing-3d-lines-in-python/ 
