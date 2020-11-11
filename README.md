@@ -14,6 +14,7 @@ The text files used in the code are extracted manually (for the time being) from
 To run the code one needs python 3 along with matplotlib, numpy and mayavi modules.
 To install Mayavi in anaconda one can execute the following command:
 ```conda install -c anaconda mayavi```
+
 If you are inside an IPython console, consider having a qt interface ```%matplotlib qt```
 
 Special thanks to Nasser Alkmim (https://github.com/nasseralkmim) for the blog
