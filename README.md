@@ -19,3 +19,5 @@ If you are inside an IPython console, consider having a qt interface ```%matplot
 
 Special thanks to Nasser Alkmim (https://github.com/nasseralkmim) for the blog
 http://nasseralkmim.github.io/notes/2016/08/11/drawing-3d-lines-in-python/ 
+
+![Sample Mayavi output](https://user-images.githubusercontent.com/39578361/98774536-2d6b9000-2411-11eb-837f-3f1b5f231e01.png)
